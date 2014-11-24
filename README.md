@@ -35,8 +35,9 @@ Reconstruímos un primer plano de la muestra a partir de  la imagen data/0.tif
 
 [tomografia.ipynb](http://nbviewer.ipython.org/github/flgomezc/tlafluo/blob/master/tomografia.ipynb)
 
+![img/tomo1.png](https://github.com/flgomezc/tlafluo/raw/master/img/tomo1.png "Imagen reconstruida 1")
 
-
+![img/tomo2.png](https://github.com/flgomezc/tlafluo/raw/master/img/tomo2.png "Imagen reconstruida y limpia")
 
 
 Reconstruìmos varios planos, con ellos podríamos reconstruir en 3D nuestra muestra. [tomografía-3D.ipynb](http://nbviewer.ipython.org/github/flgomezc/tlafluo/blob/master/tomografia-3D.ipynb)
