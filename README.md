@@ -22,7 +22,7 @@ La visualizaciòn queda pendiente.
 # Video a Fotos
 
 Acá está el archivo original con el que trabajamos.
-[![Vídeo en Youtube](http://img.youtube.com/vi/gh1sMMadxtc/0.jpg)](http://www.youtube.com/watch?v=http://img.youtube.com/vi/gh1sMMadxtc/0.jpg)
+[![Vídeo en Youtube](http://img.youtube.com/vi/gh1sMMadxtc/0.jpg)](http://www.youtube.com/watch?v=gh1sMMadxtc)
 
 Las fotos están en la carpeta "data"
 
