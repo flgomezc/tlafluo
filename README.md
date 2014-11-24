@@ -4,6 +4,9 @@ Tomografía LAser FLUOrescente.
 
 Proyecto para el Science Hack Day - Bogotá 2014
 
+# Integrantes: 
+Felipe Gómez, Susana Simancas y Alejandro Maecha
+
 # Visualización
 
 Para ver los archivos con extensión ipynb pueden usar la página [nbviewer.ipython.org](http://nbviewer.ipython.org/)
