@@ -25,8 +25,9 @@ Acá está el archivo original con el que trabajamos.
 [![Vídeo en Youtube](http://img.youtube.com/vi/gh1sMMadxtc/0.jpg)](http://www.youtube.com/watch?v=gh1sMMadxtc)
 
 Las fotos están en la carpeta "data"
+![img/reconstruction.gif](https://github.com/flgomezc/tlafluo/raw/master/img/reconstruction.gif "Imágenes limpías para reconstruir")
 
-![data/o.tif](https://github.com/flgomezc/tlafluo/raw/master/data/0.tif "Imagen limpia data/0.tif")
+![data/o.tif](https://github.com/flgomezc/tlafluo/raw/master/data/0.tif "Imagen limpia formato tif")
 
 
 # Tomografía
